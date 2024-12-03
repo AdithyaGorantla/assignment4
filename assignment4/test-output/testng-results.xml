@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-03T06:36:37 IST" name="Default suite" finished-at="2024-12-03T06:36:39 IST" duration-ms="1849">
+    <groups>
+    </groups>
+    <test started-at="2024-12-03T06:36:37 IST" name="Default test" finished-at="2024-12-03T06:36:39 IST" duration-ms="1849">
+      <class name="assignment4.ApiTest">
+        <test-method signature="testAllPosts()[pri:0, instance:assignment4.ApiTest@5f9b2141]" started-at="2024-12-03T06:36:37 IST" name="testAllPosts" finished-at="2024-12-03T06:36:39 IST" duration-ms="1300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAllPosts -->
+        <test-method signature="testGetRequest()[pri:0, instance:assignment4.ApiTest@5f9b2141]" started-at="2024-12-03T06:36:39 IST" name="testGetRequest" finished-at="2024-12-03T06:36:39 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRequest -->
+        <test-method signature="testPostRequest()[pri:0, instance:assignment4.ApiTest@5f9b2141]" started-at="2024-12-03T06:36:39 IST" name="testPostRequest" finished-at="2024-12-03T06:36:39 IST" duration-ms="460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostRequest -->
+      </class> <!-- assignment4.ApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
